@@ -1,4 +1,4 @@
-git a# NewzNest
+# NewzNest
 
 Discover a fresh news experience with NewzNest, a dynamic news reader powered by React and React-Query. This project offers a sleek and intuitive platform to explore news articles from various sources, providing you with up-to-date information.
 
