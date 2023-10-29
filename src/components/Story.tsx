@@ -64,6 +64,7 @@ export default function Story({ id }: { id: number }) {
     isError,
   } = useQuery(['story', id], () => getStory(id), {
     // select: (data) => data.url !== undefined,
+
   });
 
   if (isLoading) {
